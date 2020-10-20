@@ -1,24 +1,22 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# URL:https://gmap-app-29750.herokuapp.com/
 
-Things you may want to cover:
 
-* Ruby version
+# 利用方法！！！
+新聞配達員の現在地を把握するアプリを作成しました。
+サイトにアクセスすると現在地の許可のリクエストを行い、承認すると
+現在地を表示します。配達員の配達状況を把握することができます。
 
-* System dependencies
+# 目指した課題解決！！！
+配達が遅れている際に配達員の場所を把握することができたら、
+お客様にあとどれくらいで配達が可能なのかより正確な時間を
+伝えることができる。
 
-* Configuration
+# 洗い出した用件！！！
+１、google mapをアプリ上に表示すること。
+２、google map上に自分の現在地を表示させる。
+３、アプリ上にアクセスしたユーザーの現在地を表示させ位置を共有する。
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# 実装予定の機能
+１、メッセージをリアルタイムに送信し、未配達のお客様を配達員に認知させる。
