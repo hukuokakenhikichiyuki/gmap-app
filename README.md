@@ -36,6 +36,3 @@ https://github.com/hukuokakenhikichiyuki/gmap-app/issues/1
 
 # 実装予定の機能
 １、メッセージをリアルタイムに送信し、未配達のお客様を配達員に認知させる。
-
-
-テストID・PASS、デモ動画、開発背景、DB設計、こだわった点
