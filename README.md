@@ -30,7 +30,7 @@ googleマップに現在地が反映されるようになってます。
 
 # 現状と完成について
 現状はgoogleアカウントでログインすると自分の現在地に赤いピンのようなものがつきます。
-https://github.com/hukuokakenhikichiyuki/gmap-app/issues/1
+https://github.com/hukuokakenhikichiyuki/gmap-app/issues/new
 上記のような感じです。
 完成はこのピンが複数表示されユーザーが移動するとピンも移動するというイメージです。
 
